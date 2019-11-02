@@ -18,12 +18,7 @@
 
   <!-- Footer -->
   
-          @include('user/layouts/footer')
-
-
-
-
-  
+          @include('user/layouts/footer')  
 
   
 </body>

@@ -15,7 +15,7 @@
             <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/post">Sample Post</a>
+            <a class="nav-link" href="#">Sample Post</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
